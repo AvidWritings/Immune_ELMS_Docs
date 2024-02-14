@@ -1,9 +1,0 @@
-[4:24 PM] Raphael, Balu F
-Written (45 mins)
-Imagine you have been asked to produce installation instructions for a software package. Provide following details:
-How would you go about this task (include information gathering)?
-Type of information you would include and the structure you would provide.
-Pick any one topic below. While explaining, please provide overview and instructions.
-Write steps to create a new user account: Gmail/Amazon.
-Write steps on how you withdraw money from an ATM using your card.
-Write steps to explain how to prepare your preferred food/beverage (Example: Tea, Coffee)
