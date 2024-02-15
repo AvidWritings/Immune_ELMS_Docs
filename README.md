@@ -8,8 +8,15 @@ Immune is the market-leading provider of enterprise legal spend and matter manag
 ### What Is Immune ELMS For?
 
 The Immune platform ELM ecosystem is tailored to meet the unique needs of client’s and offers a solid foundation for the consolidation of various systems, which can include:
-1. ELM applications offered by ELM Solutions
-2. Applications or Modules built on Immune by the client
-3. Applications or Modules developed on Immune by ELM Solutions partners
-4. Applications that clients choose to integrate with Immune
- 
+- ELM applications offered by ELM Solutions
+- Applications or Modules built on Immune by the client
+- Applications or Modules developed on Immune by ELM Solutions partners
+- Applications that clients choose to integrate with Immune
+
+ ## Key Features
+The Immune platform ELM ecosystem is tailored to meet the unique needs of client’s and offers a solid foundation for the consolidation of various systems, which can include:
+- Single workspace that provides access to all essential information and resources.
+- Consolidation of systems onto a single platform and facilitates integrated reporting and workflow across systems and departments.
+- Centralization of data and documents, and with law firms and other external business partners.
+- Powerful toolkits enable clients and partners to quickly make configuration changes.
+- Advanced platform technology to deliver total ELM ecosystems comprised of best-in-class software.
